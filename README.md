@@ -1,5 +1,9 @@
 # Greeting
 
+Hello everyone, I made this project as part of the RoboGarden Web Dev Bootcamp, 
+
+Thanks :)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
